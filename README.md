@@ -1,4 +1,4 @@
-# C# Intermediate - Classes, Interfaces, and OOP
+# C# Intermediate - Classes, Interfaces, and OOP Excercises
 
 This repository contains a set of small console apps focused on *object-oriented design* concepts from the Udemy course **C# Intermediate - Classes, Interfaces, and OOP**. Each folder is an independent exercise with its own solution (`.sln`) and console project (`.csproj`).
 
