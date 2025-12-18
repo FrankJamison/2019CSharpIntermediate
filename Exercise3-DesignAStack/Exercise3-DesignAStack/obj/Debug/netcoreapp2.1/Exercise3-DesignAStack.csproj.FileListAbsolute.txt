@@ -1,0 +1,11 @@
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Debug\netcoreapp2.1\Exercise3-DesignAStack.csprojAssemblyReference.cache
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Debug\netcoreapp2.1\Exercise3-DesignAStack.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Debug\netcoreapp2.1\Exercise3-DesignAStack.AssemblyInfoInputs.cache
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Debug\netcoreapp2.1\Exercise3-DesignAStack.AssemblyInfo.cs
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Debug\netcoreapp2.1\Exercise3-DesignAStack.deps.json
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Debug\netcoreapp2.1\Exercise3-DesignAStack.runtimeconfig.json
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Debug\netcoreapp2.1\Exercise3-DesignAStack.runtimeconfig.dev.json
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Debug\netcoreapp2.1\Exercise3-DesignAStack.dll
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\bin\Debug\netcoreapp2.1\Exercise3-DesignAStack.pdb
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Debug\netcoreapp2.1\Exercise3-DesignAStack.dll
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise3-DesignAStack\Exercise3-DesignAStack\obj\Debug\netcoreapp2.1\Exercise3-DesignAStack.pdb

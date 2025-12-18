@@ -1,0 +1,11 @@
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.deps.json
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.runtimeconfig.json
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.runtimeconfig.dev.json
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.dll
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\bin\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.pdb
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.csprojAssemblyReference.cache
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.AssemblyInfoInputs.cache
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.AssemblyInfo.cs
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.dll
+C:\GitHub\Coursework\Udemy\C# Intermediate - Classes, Interfaces and OOP\Exercise6-DesignAWorkflowEngine\Exercise6-DesignAWorkflowEngine\obj\Debug\netcoreapp2.1\Exercise6-DesignAWorkflowEngine.pdb

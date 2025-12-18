@@ -1,0 +1,11 @@
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.deps.json
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.runtimeconfig.json
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.runtimeconfig.dev.json
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.dll
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\bin\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.pdb
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.csprojAssemblyReference.cache
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.csproj.CoreCompileInputs.cache
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.AssemblyInfoInputs.cache
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.AssemblyInfo.cs
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.dll
+C:\GitHub\Coursework\Udemy\C Sharp Intermediate Classes, Interfaces and OOP\Exercise1-DesignAStopwatch\Exercise1-DesignAStopwatch\obj\Debug\netcoreapp2.1\Exercise1-DesignAStopwatch.pdb
