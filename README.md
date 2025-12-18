@@ -1,6 +1,6 @@
-# C# Intermediate — Design Exercises (Udemy)
+# C# Intermediate - Classes, Interfaces, and OOP
 
-This repository contains a set of small console apps focused on *object-oriented design* concepts from a C# Intermediate course (Udemy). Each folder is an independent exercise with its own solution (`.sln`) and console project (`.csproj`).
+This repository contains a set of small console apps focused on *object-oriented design* concepts from the Udemy course **C# Intermediate - Classes, Interfaces, and OOP**. Each folder is an independent exercise with its own solution (`.sln`) and console project (`.csproj`).
 
 All projects in this workspace target **.NET Core 2.1** (`netcoreapp2.1`) and are intended to be run from the command line or inside Visual Studio / VS Code.
 
